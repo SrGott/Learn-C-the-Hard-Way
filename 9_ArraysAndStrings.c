@@ -7,7 +7,7 @@ int main()
 	char name[4] = { 'a' };
 	
 	
-	// print out Numbers and Name Raw without anydata
+	// print out Numbers and Name Raw without any data
 	printf("Numbers: %d %d %d %d\n", num[0], num[1], num[2], num[3]);
 	printf("Name: %c %c %c %c\n", name[0], name[1], name[2], name[3]);
 	printf("Name part 2: %s\n", name);
